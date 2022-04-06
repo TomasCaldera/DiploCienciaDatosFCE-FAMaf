@@ -1,6 +1,6 @@
-# DiploCienciaDatosFCE-FAMaf
+# Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios
 
-Adjunto informe del análisis realizado. 
+Adjunto informe del trabajo final realizado. 
 
 ![1](https://user-images.githubusercontent.com/83247168/162048578-dee4eda6-b16b-44d6-93c8-a28c6fefd090.png)
 ![2](https://user-images.githubusercontent.com/83247168/162048585-21189d91-5e9c-4f4e-9055-8642511bd01f.png)
